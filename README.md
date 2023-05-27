@@ -7,4 +7,4 @@ Day 1: (Palindrome) Given an integer x, return true if x is a palindrome, and fa
 
 Day 2:(Two Sum) Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-Day 3: Roman to Integer
+Day 3: Roman to Integer.
