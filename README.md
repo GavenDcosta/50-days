@@ -10,3 +10,5 @@ Day 2: Two Sum
 Day 3: Roman to Integer.
 
 Day 4: Buy two Chocolates.
+
+Day 5: Remove Element.
