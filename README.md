@@ -14,3 +14,5 @@ Day 4: Buy two Chocolates.
 Day 5: Remove Element.
 
 Day 6: Chunk Array
+
+Day 7: Length of Last Word.
