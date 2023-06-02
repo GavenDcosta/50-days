@@ -18,3 +18,5 @@ Day 6: Chunk Array
 Day 7: Length of Last Word.
 
 Day 8: Search Insert Position.
+
+Dqy 9: Valid Perfect Square & Square root of a number.
