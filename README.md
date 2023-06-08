@@ -31,3 +31,5 @@ Day 13: Maximum Depth of Binary Tree.
 
 Day 14: Plus One.
 
+Day 15: Average Salary Excluding the Minimum and Maximum Salary.
+
