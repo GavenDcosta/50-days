@@ -33,3 +33,5 @@ Day 14: Plus One.
 
 Day 15: Average Salary Excluding the Minimum and Maximum Salary.
 
+Day 16: Find Smallest Letter Greater Than Target.
+
