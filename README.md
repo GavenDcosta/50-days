@@ -37,5 +37,8 @@ Day 16: Find Smallest Letter Greater Than Target.
 
 Day 17: Power of Three and Power of Four.
 
-Day 18: Number of Senior Citizens
+Day 18: Number of Senior Citizens.
+
+Day 19: Merge Sorted Array.
+
 
