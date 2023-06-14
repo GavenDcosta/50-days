@@ -41,4 +41,6 @@ Day 18: Number of Senior Citizens.
 
 Day 19: Merge Sorted Array.
 
+Day 20: Median of Two Sorted Arrays and Merge Two Sorted Lists.
+
 
