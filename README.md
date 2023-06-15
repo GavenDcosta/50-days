@@ -43,4 +43,6 @@ Day 19: Merge Sorted Array.
 
 Day 20: Median of Two Sorted Arrays and Merge Two Sorted Lists.
 
+Day 21: Remove Nth Node From End of List.
+
 
