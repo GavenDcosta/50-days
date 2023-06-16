@@ -45,4 +45,7 @@ Day 20: Median of Two Sorted Arrays and Merge Two Sorted Lists.
 
 Day 21: Remove Nth Node From End of List.
 
+Day 22: Remove Duplicates from Sorted Array.
+
+
 
