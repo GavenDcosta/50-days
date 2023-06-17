@@ -47,5 +47,6 @@ Day 21: Remove Nth Node From End of List.
 
 Day 22: Remove Duplicates from Sorted Array.
 
+Day 23: Reverse Integer.
 
 
