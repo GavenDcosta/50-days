@@ -49,4 +49,6 @@ Day 22: Remove Duplicates from Sorted Array.
 
 Day 23: Reverse Integer.
 
+Day 24: Valid Parentheses.
+
 
