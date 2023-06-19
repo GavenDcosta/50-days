@@ -51,4 +51,7 @@ Day 23: Reverse Integer.
 
 Day 24: Valid Parentheses.
 
+Day 25: Remove Duplicates from Sorted List.
+
+
 
