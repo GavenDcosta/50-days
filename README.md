@@ -53,5 +53,7 @@ Day 24: Valid Parentheses.
 
 Day 25: Remove Duplicates from Sorted List.
 
+Day 26: Check if the Number is Facinating.
+
 
 
