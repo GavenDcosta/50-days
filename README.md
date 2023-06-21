@@ -55,5 +55,7 @@ Day 25: Remove Duplicates from Sorted List.
 
 Day 26: Check if the Number is Facinating.
 
+DAy 27: Find the Index of the First Occurrence in a String.
+
 
 
