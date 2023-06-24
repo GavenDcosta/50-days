@@ -61,3 +61,5 @@ Day 28: Same Tree.
 
 Day 29: Multiply Strings and Rotate Image.
 
+Day 30: Symmetric Tree.
+
