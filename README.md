@@ -64,3 +64,5 @@ Day 29: Multiply Strings and Rotate Image.
 Day 30: Symmetric Tree.
 
 Day 31: Longest Common Prefix.
+
+Day 32: Climbing Stairs.
