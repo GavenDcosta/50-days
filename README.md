@@ -66,3 +66,5 @@ Day 30: Symmetric Tree.
 Day 31: Longest Common Prefix.
 
 Day 32: Climbing Stairs.
+
+Day 33: Binary Tree Inorder Traversal.
