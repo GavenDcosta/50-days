@@ -70,3 +70,5 @@ Day 32: Climbing Stairs.
 Day 33: Binary Tree Inorder Traversal.
 
 Day 34: Majority Element.
+
+Day 35: Convert Sorted Array to Binary Search Tree.
