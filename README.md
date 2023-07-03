@@ -1,4 +1,4 @@
-# 100-days.
+# 50-days.
 
 
 Objective: Logic building using Leet Code
