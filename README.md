@@ -84,3 +84,5 @@ Day 39: Single Number II.
 Day 40: Search in Rotated Sorted Array.
 
 Day 41: Counter II.
+
+Day 42: Array Reduce Transformation.
