@@ -86,3 +86,5 @@ Day 40: Search in Rotated Sorted Array.
 Day 41: Counter II.
 
 Day 42: Array Reduce Transformation.
+
+Day 43: Third Maximum Number.
