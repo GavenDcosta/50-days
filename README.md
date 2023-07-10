@@ -88,3 +88,5 @@ Day 41: Counter II.
 Day 42: Array Reduce Transformation.
 
 Day 43: Third Maximum Number.
+
+Day 44: Valid Palindrome.
