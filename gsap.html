@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12/dist/gsap.min.js"></script>
+    <style>
+        .main{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        .one,.two{
+            display: flex;
+            flex-direction: column;
+            margin-left: 120px;
+        }
+        .green{
+            width: 50px;
+            height: 50px;
+            background-color: green;
+            border-radius: 20%;
+        }
+        .blue{
+            width: 50px;
+            height: 50px;
+            background-color: blue;
+            border-radius: 20%;
+        }
+        .red{
+            width: 50px;
+            height: 50px;
+            background-color: red;
+            border-radius: 20%;
+        }
+        .box1{
+            width: 50px;
+            height: 50px;
+            background-color: aqua;
+            border-radius: 20%;
+        }
+        .box2{
+            width: 50px;
+            height: 50px;
+            background-color: goldenrod;
+            border-radius: 20%;
+        }
+        .box3{
+            width: 50px;
+            height: 50px;
+            background-color: greenyellow;
+            border-radius: 20%;
+        }
+    
+    </style>
+</head>
+<body>
+
+    <div class="main">
+        <div class="one">
+            <div class="green"></div>
+            <div class="blue"></div>
+            <div class="red"></div>
+        </div>
+
+        <div class="two">  
+            <div class="box1"></div>
+            <div class="box2"></div>
+            <div class="box3"></div>
+        </div>  
+    </div>
+    
+    <script>
+         gsap.to(".green", {
+            rotation: 360,
+            x: 100,
+            duration: 1,
+            repeat: -1,
+         })
+
+         gsap.from(".blue", {
+            rotation: -360, 
+            x: -100, 
+            duration: 1,
+            repeat:-1
+        });
+
+        gsap.fromTo(".red", {
+            x: -100
+        },{
+            rotation: 360, 
+            x: 100, 
+            duration: 1,
+            repeat:-1
+        });
+
+        var t = gsap.timeline()
+        t.to(".box1", {duration:2, x:100, repeat:-1})
+          .to(".box2", {duration:1, y:200,repeat:-1})
+          .to(".box3", {duration:2, rotation:360, repeat:-1})
+
+    </script>
+    
+</body>
+</html>
