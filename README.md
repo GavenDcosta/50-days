@@ -94,3 +94,5 @@ Day 44: Valid Palindrome.
 Day 45: Did my IP(internet programming) Activity.
 
 Day 46: Learnt some basics of GSAP.
+
+Day 47: Did some basic animations with GSAP.
