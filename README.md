@@ -98,3 +98,5 @@ Day 46: Learnt some basics of GSAP.
 Day 47: Did some basic animations with GSAP.
 
 Day 48: Revised SQL.
+
+Day 49: Started revising django.
