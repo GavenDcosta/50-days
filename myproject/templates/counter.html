@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>The amount of words is {{amount}}</h1>
+    <!-- <h1>The amount of words is {{amount}}</h1> -->
+ 
+    {% for post in posts %}
+     <!-- <h1><a href="/post/{{post}}">{{post}}</a></h1>    -->
+     <h1><a href="{% url 'post' post %}">{{post}}</a></h1>  
+    {% endfor %}
+
 </body>
 </html>

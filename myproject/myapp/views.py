@@ -47,14 +47,18 @@ def index(request):
 def counter(request): 
     # words = request.GET['words']  #name of the text area....put the url name in action attribute
     #POST is more secure than GET because in GET all the data gets visible on the url..but in POST its hidden
-    words = request.POST['words']
-    amount_of_words = len(words.split())
-    return render(request, 'counter.html', {'amount': amount_of_words})
+    
+    # words = request.POST['words']
+    # amount_of_words = len(words.split())
+    # return render(request, 'counter.html', {'amount': amount_of_words})
+    
+    posts = [1,2,3,4,5,'tim','tom','john']
+    return render(request, 'counter.html', {'posts': posts})
 
 
 def register(request):
     if request.method == 'POST':
-        username = request.POST['username']
+        username = request.POST['username'] 
         email = request.POST['email']
         password = request.POST['password']
         password2 = request.POST['password2']
@@ -98,3 +102,9 @@ def login(request):
 def logout(request):
     auth.logout(request)
     return redirect('/') 
+
+
+#dynamic routing
+def post(request, pk):
+    return render(request, 'post.html',{'pk':pk})
+    
