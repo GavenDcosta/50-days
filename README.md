@@ -102,3 +102,5 @@ Day 48: Revised SQL.
 Day 49: Started revising django.
 
 Day 50: Revised Django.
+
+Day 50 onwards: React revision, Django, tailwind css, solidity.
