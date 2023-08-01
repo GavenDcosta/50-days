@@ -1,0 +1,37 @@
+*{
+    scroll-behavior: smooth;
+}
+
+#intr{
+    margin-left: 10px;
+}
+
+span{
+    font-size: 40px;
+    color: white;
+    display: flex;
+}
+
+body{
+    background: url(https://w0.peakpx.com/wallpaper/117/204/HD-wallpaper-digital-watch.jpg);
+    width: 100%;
+}
+
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    background-color: #000000a0;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+    border: 10px solid white;
+}
