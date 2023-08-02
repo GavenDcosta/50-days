@@ -103,4 +103,4 @@ Day 49: Started revising django.
 
 Day 50: Revised Django.
 
-Day 50 onwards: React revision, Django, tailwind css, solidity.
+Day 51 onwards: React revision, Django, tailwind css, solidity.
